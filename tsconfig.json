@@ -9,6 +9,7 @@
         // The output module resolution system that the code will be compiled for
         "module": "ESNext",
         // The input module resolution system
-        "moduleResolution": "bundler"
+        "moduleResolution": "bundler",
+        "allowImportingTsExtensions": true
     }
 }
